@@ -1,0 +1,53 @@
+# File usato per descrivere gli input. Le parti della riga dopo un # vengono
+# ignorate. Le righe non banali (ovvero contenenti qualcosa oltre a whitespace
+# prima del primo #) vengono passate al generatore e generano un input ciascuna.
+# Se una riga inizia con "#ST:" (senza le virgolette) viene usata per delimitare
+# un subtask. "#ST:" va seguito con il punteggio assegnato a quel subtask. Se
+# sono presenti i subtask, è necessario che la somma dei punti di ogni subtask
+# sia 100.
+
+#ST: 0
+io/topovi.dummy.in.1
+io/topovi.dummy.in.2
+io/topovi.dummy.in.3
+
+#ST: 10
+io/topovi.in.1
+io/topovi.in.2
+
+#ST: 10
+io/topovi.in.3
+io/topovi.in.4
+
+#ST: 10
+io/topovi.in.5
+io/topovi.in.6
+
+#ST: 10
+io/topovi.in.7
+io/topovi.in.8
+
+#ST: 10
+io/topovi.in.9
+io/topovi.in.10
+
+#ST: 10
+io/topovi.in.11
+io/topovi.in.12
+
+#ST: 10
+io/topovi.in.13
+io/topovi.in.14
+
+#ST: 10
+io/topovi.in.15
+io/topovi.in.16
+
+#ST: 10
+io/topovi.in.17
+io/topovi.in.18
+
+#ST: 10
+io/topovi.in.19
+io/topovi.in.20
+

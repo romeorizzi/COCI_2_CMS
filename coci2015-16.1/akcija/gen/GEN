@@ -1,0 +1,42 @@
+# File usato per descrivere gli input. Le parti della riga dopo un # vengono
+# ignorate. Le righe non banali (ovvero contenenti qualcosa oltre a whitespace
+# prima del primo #) vengono passate al generatore e generano un input ciascuna.
+# Se una riga inizia con "#ST:" (senza le virgolette) viene usata per delimitare
+# un subtask. "#ST:" va seguito con il punteggio assegnato a quel subtask. Se
+# sono presenti i subtask, è necessario che la somma dei punti di ogni subtask
+# sia 100.
+
+#ST: 0
+io/akcija.dummy.in.1
+io/akcija.dummy.in.2
+
+#ST: 10
+io/akcija.in.1
+
+#ST: 10
+io/akcija.in.2
+
+#ST: 10
+io/akcija.in.3
+
+#ST: 10
+io/akcija.in.4
+
+#ST: 10
+io/akcija.in.5
+
+#ST: 10
+io/akcija.in.6
+
+#ST: 10
+io/akcija.in.7
+
+#ST: 10
+io/akcija.in.8
+
+#ST: 10
+io/akcija.in.9
+
+#ST: 10
+io/akcija.in.10
+

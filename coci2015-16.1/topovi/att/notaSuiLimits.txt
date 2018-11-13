@@ -1,0 +1,7 @@
+MEMORY LIMIT:
+memory_limit: 128
+# memory_limit: 64  era il valore originale a coci
+
+TIME LIMIT:
+time_limit: 4.0
+# time_limit: 2.0  era il valore originale a coci

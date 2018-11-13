@@ -1,0 +1,8 @@
+name: pot
+title: pot (da coci 2015-16, round 3, task 1)
+memory_limit: 64
+time_limit: 1.0
+token_mode: infinite
+infile: ""
+outfile: ""
+# when infile and outfile are left empty, stdin and stdout are used. 

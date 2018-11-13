@@ -1,0 +1,8 @@
+name: trapezi
+title: Trapezi (da coci 2016-17, final, task 3)
+memory_limit: 1024
+time_limit: 0.5
+token_mode: infinite
+infile: ""
+outfile: ""
+# when infile and outfile are left empty, stdin and stdout are used. 

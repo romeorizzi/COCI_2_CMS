@@ -1,0 +1,13 @@
+name: "akcija"
+title: "akcija (da coci 2015-16, round 1, task 2)"
+memory_limit: 32
+time_limit: 1.0
+token_mode: infinite
+infile: ""
+outfile: ""
+# when infile and outfile are left empty, stdin and stdout are used. 
+
+#Candriai (Alessio Guerrieri, vecchio formato e i/o da file)
+#n_input: 10
+#score_mode: max
+#token_mode: disabled

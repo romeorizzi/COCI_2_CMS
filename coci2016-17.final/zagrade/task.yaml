@@ -1,0 +1,8 @@
+name: zagrade
+title: Zagrade (da coci 2016-17, final, task 4)
+memory_limit: 1024
+time_limit: 3.0
+token_mode: infinite
+infile: ""
+outfile: ""
+# when infile and outfile are left empty, stdin and stdout are used. 
